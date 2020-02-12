@@ -1,0 +1,4 @@
+{
+    "board": "SparkFun:samd:samd21_9dof",
+    "sketch": "NozzleSystem/NozzleSystem.ino"
+}
