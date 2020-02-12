@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/ffuav01/Arduino/libraries/comm_stack/**",
+                "/home/ffuav01/Arduino/libraries/WDTZero/**",
+                "/home/ffuav01/.arduino15/packages/SparkFun/hardware/samd/1.7.2/cores/arduino/**",
+                "/home/ffuav01/Arduino/libraries/SparkFun_MPU-9250-DMP_Arduino_Library-master/src/**",
+                "/home/ffuav01/.arduino15/packages/SparkFun/hardware/samd/1.7.2/libraries/**",
+                "/home/ffuav01/.arduino15/packages/SparkFun/hardware/samd/1.7.2/variants/SparkFun_9DoF_M0/**",
+                "/home/ffuav01/.arduino15/packages/arduino/tools/CMSIS-Atmel/1.2.0/CMSIS/Device/ATMEL/**",
+                "/home/ffuav01/arduino-1.8.10/libraries/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
